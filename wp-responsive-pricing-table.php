@@ -37,6 +37,8 @@ if(!class_exists('WP_Responsive_Pricing_Table')):
             //include_once( 'includes/template-functions.php' );
             include_once( 'includes/class-wp-rpt-cpt.php' );
             include_once( 'includes/class-wp-rpt-meta-box.php' );
+            include_once( 'includes/short-codes-functions.php' );
+
         }
 /*
         public function hooks() {
