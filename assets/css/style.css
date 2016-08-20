@@ -1,0 +1,66 @@
+section.pricing1 {
+    padding: 0px; }
+section.pricing1 .column-inner {
+    padding: 0;
+    text-align: center;
+    color: #999;
+    margin-bottom: 15px; }
+section.pricing1 .column-inner .pricing-wrapper {
+    border: 1px solid #f0f0f0;
+    border-radius: 6px; }
+section.pricing1 .column-inner .pricing-wrapper .top {
+    padding-top: 30px;
+    background-color: #f8f8f8; }
+section.pricing1 .column-inner .pricing-wrapper .top .price {
+    color: #333; }
+section.pricing1 .column-inner .pricing-wrapper .top .price .price-currency {
+    font-size: 1.5rem; }
+section.pricing1 .column-inner .pricing-wrapper .top .price .price-amount {
+    font-size: 4rem; }
+section.pricing1 .column-inner .pricing-wrapper .top .price .price-extra {
+    font-size: 1rem; }
+section.pricing1 .column-inner .pricing-wrapper .top .price-title {
+    padding-bottom: 30px; }
+section.pricing1 .column-inner .pricing-wrapper .top .price-plan {
+    background: #31aae2;
+    font-size: 15px;
+    color: #fff;
+    font-weight: 400;
+    width: 50%;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    line-height: 30px;
+    bottom: -15px; }
+section.pricing1 .column-inner .pricing-wrapper .top .price-plan .t1 {
+    left: -15px;
+    border-width: 15px; }
+section.pricing1 .column-inner .pricing-wrapper .top .price-plan .t2 {
+    right: -15px;
+    border-width: 15px; }
+section.pricing1 .column-inner .pricing-wrapper .pricing-content ul {
+    font-size: .875rem;
+    list-style: none;
+    padding: 0; }
+section.pricing1 .column-inner .pricing-wrapper .pricing-content ul li {
+    padding: 10px 0; }
+section.pricing1 .column-inner .pricing-wrapper .pricing-content ul li:first-child {
+    margin-top: 15px; }
+section.pricing1 .column-inner .pricing-wrapper .pricing-content .pricing-action-button {
+    margin: 10px; }
+section.pricing1 .column-inner .pricing-wrapper .pricing-content .pricing-action-button a.btn {
+    color: #bdc3c7;
+    background-color: #EEEEEE;
+    border-color: #ECECEC; }
+section.pricing1 .column-inner .pricing-wrapper .pricing-content .pricing-action-button a.btn.featured {
+    color: #fff;
+    background-color: #3498db;
+    border-color: #4183D7; }
+section.pricing1 .column-inner .pricing-wrapper .pricing-content .pricing-action-button a.btn:hover {
+    color: #fff;
+    background-color: #4183D7;
+    border-color: #4183D7; }
+section.pricing1 .column-inner .pricing-wrapper.featured .pricing-action-button a.btn {
+    color: #fff;
+    background-color: #3498db;
+    border-color: #4183D7; }
